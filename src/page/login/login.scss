@@ -1,0 +1,136 @@
+// 登录首页样式
+.login-tab {
+  display: flex;
+
+  .login-tab-item {
+    font-size: 16px;
+    padding-bottom: 10px;
+    position: relative;
+    cursor: pointer;
+  }
+
+  li:nth-child(1) {
+    margin-right: 60px;
+  }
+
+  .active {
+    color: #0076FE;
+    font-weight: bold;
+  }
+
+  .active::before {
+    position: absolute;
+    content: '';
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #0076FE;
+  }
+}
+
+/deep/ .login-btn {
+  height: 50px;
+  font-size: 16px;
+}
+
+.login-txt-bottom {
+  font-size: 12px;
+  color: #AEAEAE;
+  width: 100%;
+  text-align: center;
+  line-height: 38px;
+}
+
+.login-btn-box {
+  position: absolute;
+  width: calc(100% - 120px);
+  bottom: 20px;
+  left: 60px;
+}
+
+.login-forgot {
+  text-align: right;
+  cursor: pointer;
+  line-height: 46px;
+  color: #0076FE;
+}
+
+// 登录首页样式结束
+
+// z账号登录
+/deep/ .form-input .el-input__inner {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding-left: 2px;
+  border-radius: 0;
+}
+
+/deep/ .form-box .el-input__inner {
+  border: none;
+}
+
+ul, li, p, dl, dd, body, html, a {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+.form-box {
+  position: relative;
+  width: 100%;
+  display: flex;
+}
+
+.form-box::before, .form-code::before {
+  position: absolute;
+  content: '';
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #DCDFE6;
+  z-index: 999999;
+}
+
+.form-code::before {
+  transition: .2s;
+  background-color: #82C0FF;
+}
+
+// 账号登录结束
+
+
+// 验证码
+.login-short-code {
+  padding-top: 35px;
+  font-size: 14px;
+  color: #0076FE;
+  text-align: right;
+  width: 30%;
+  padding-left: 5%;
+  position: relative;
+  cursor: pointer;
+}
+
+.login-short-code::before {
+  position: absolute;
+  content: '';
+  left: 0;
+  bottom: 10px;
+  width: 1px;
+  height: 20px;
+  background-color: #DCDFE6;
+}
+
+.login-short-txt {
+  color: #AEAEAE;
+  pointer-events: none;
+  text-align: center;
+  width: 30%;
+}
+.login-text{
+  color: #0076fe;
+}

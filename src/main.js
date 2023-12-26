@@ -9,6 +9,7 @@ import store from './store';
 import {loadStyle} from './util/util'
 import * as urls from '@/config/env';
 import Element from 'element-ui';
+import { DatePicker } from 'ant-design-vue';
 import {
   iconfontUrl,
   iconfontVersion
@@ -18,12 +19,13 @@ import './styles/common.scss';
 
 import basicContainer from './components/basic-container/main'
 import thirdRegister from './components/third-register/main'
-
+import 'ant-design-vue/dist/antd.css';
 Vue.use(router)
 Vue.use(VueAxios, axios)
 Vue.use(Element, {
   i18n: (key, value) => i18n.t(key, value)
 })
+Vue.use(DatePicker);
 Vue.use(window.AVUE, {
   size: 'small',
   tableSize: 'small',
