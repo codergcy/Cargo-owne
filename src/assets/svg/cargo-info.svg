@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a187ff"/>
+      <stop offset="1" stop-color="#9b57ff"/>
+    </linearGradient>
+  </defs>
+  <g id="货物信息" transform="translate(-248 -627)">
+    <path id="路径_7884" data-name="路径 7884" d="M127.225,151a1,1,0,0,0,1,1h21.954a1,1,0,0,0,1-1V134h-23.95Zm13.946-9h6.013v2h-6.013Zm-2,4h8.008v2h-8.008Zm-.5-13H127.2l2.4-4.225a1.937,1.937,0,0,1,1.572-.775h7.509Zm12.524,0H139.724v-5h7.509a2.009,2.009,0,0,1,1.572.775Z" transform="translate(120.8 499)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

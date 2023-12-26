@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8cb63"/>
+      <stop offset="1" stop-color="#ffb300"/>
+    </linearGradient>
+  </defs>
+  <g id="卸货" transform="translate(-255 -256)">
+    <g id="矩形_4391" data-name="矩形 4391" transform="translate(255 256)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="减去_321" data-name="减去 321" d="M7201-7890h0a48.4,48.4,0,0,1-5-4.575,27.134,27.134,0,0,1-3.438-4.369A9.073,9.073,0,0,1,7191-7903.5a10.271,10.271,0,0,1,10-10.5,10.27,10.27,0,0,1,10,10.5,9.073,9.073,0,0,1-1.562,4.556,27.134,27.134,0,0,1-3.437,4.369,48.4,48.4,0,0,1-5,4.575Z" transform="translate(-6933.999 8170)" fill="url(#linear-gradient)"/>
+    <text id="卸" transform="translate(267 270)" fill="#fff" font-size="10" font-family="PingFang SC Medium, PingFang SC"><tspan x="-5" y="0">卸</tspan></text>
+  </g>
+</svg>

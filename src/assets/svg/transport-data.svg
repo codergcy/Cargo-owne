@@ -1,0 +1,12 @@
+<svg width="18.000000" height="18.000000" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<g opacity="0.000000">
+		<rect x="0.500000" y="0.500000" width="17.000000" height="17.000000" fill="#FFFFFF"/>
+		<rect x="0.500000" y="0.500000" width="17.000000" height="17.000000" stroke="#707070"/>
+	</g>
+	<path d="M9 0C4.0498 0 0 4.0498 0 9C0 13.9502 4.0498 18 9 18L9.48242 9.8999L17.5176 9.48193C17.5176 4.53223 13.9502 0 9 0Z" fill-rule="evenodd" fill="#1890FF"/>
+	<path d="M17.0674 11.2178L11.7002 11.2178L11.2178 17.0679L17.0674 17.5498L17.0674 11.2178Z" fill-rule="evenodd" fill="#BADEFF"/>
+	<defs/>
+</svg>

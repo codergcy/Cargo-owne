@@ -1,0 +1,15 @@
+<svg id="收件信息" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.001" height="16" viewBox="0 0 16.001 16">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6eb9ff"/>
+      <stop offset="1" stop-color="#2193fc"/>
+    </linearGradient>
+  </defs>
+  <g id="矩形_4391" data-name="矩形 4391" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="15.77" height="16" stroke="none"/>
+    <rect x="0.5" y="0.5" width="14.77" height="15" fill="none"/>
+  </g>
+  <g id="组_473" data-name="组 473" transform="translate(-192 -223)">
+    <path id="减去_324" data-name="减去 324" d="M-4347-15061h-12a1.974,1.974,0,0,1-2-1.944v-10.113a1.974,1.974,0,0,1,2-1.944h12a1.976,1.976,0,0,1,2,1.944v10.113A1.976,1.976,0,0,1-4347-15061Zm-7.76-5.554a.748.748,0,0,0-.756.737.748.748,0,0,0,.756.738h3.522a.747.747,0,0,0,.753-.738.746.746,0,0,0-.753-.737Zm-3.158-5.571a.764.764,0,0,0-.618.313.731.731,0,0,0-.126.552.742.742,0,0,0,.308.48l4.918,3.4a.761.761,0,0,0,.435.137.749.749,0,0,0,.439-.137l4.884-3.4a.732.732,0,0,0,.308-.479.723.723,0,0,0-.13-.55.763.763,0,0,0-.616-.312.758.758,0,0,0-.436.138l-4.449,3.095-4.483-3.1A.758.758,0,0,0-4357.918-15072.124Z" transform="translate(4553 15299)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
